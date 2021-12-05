@@ -1,5 +1,6 @@
 # BrestCancerDetection
-Classifies Ultrasound Images 
+Classifies Ultrasound Images.
+
 In order for this project to work, the first thing that must be done is to download the image data from Kaggle. The link for the data will be provided in the credits section of the readme file. After the data is downloaded, it must be uploaded to your google drive. Then you will need to change the path of the file’s location by altering line 2 of block 5 where it says “ path = “.
 
 You must change the file pathname to match where you stored the dataset. Finally, when you first run the code, block 4 will try to connect to your Google Drive. Before the code can finish compiling, it will provide a link that you must click on.
