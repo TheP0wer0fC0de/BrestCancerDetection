@@ -1,4 +1,4 @@
-# Brest Cancer Detection
+# Brest Cancer Detection Using Machine Learning
 Classifies Ultrasound Images.
 
 In order for this project to work, the first thing that must be done is to download the image data from Kaggle. The link for the data will be provided in the credits section of the readme file. After the data is downloaded, it must be uploaded to your google drive. Then you will need to change the path of the file’s location by altering line 2 of block 5 where it says “ path = “.
